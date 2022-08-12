@@ -26,13 +26,12 @@ function Home() {
               BootStrap, MaterialUI
             </span>
           </li>
-          {/* <li className="item">
+          <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, Java Spring, .NET, ExpressJS, GraphQL, ApolloServer,
-              MySQL, MongoDB, DynamoDB, DigitalOcean, AWS S3, MS SQL
+              SQL
             </span>
-          </li> */}
+          </li>
           <li className="item">
             <h2>Lenguajes</h2>
             <span>JavaScript, C, HTML, CSS</span>
