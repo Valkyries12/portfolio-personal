@@ -118,6 +118,38 @@ function Experience() {
             <li><p>Utilización de metodologías ágiles con Jira como herramienta de gestión.</p></li>
           </ul>
         </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Octubre 2022 - Actual"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Desarrollador Frontend - Capgemini
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            CABA / Remoto
+          </h4>
+          {/* <p>.</p> */}
+          <ul>
+            <li>
+              <p>Migración de un aplicativo bancario hecho en VB hacia ReactJS con redux.</p>
+            </li>
+            <li>
+              <p>Desarrollo de interfaces de usuario con ReactJS, Redux.</p>
+            </li>
+            <li>
+              <p>Soporte de aplicación.</p>
+            </li>
+            <li>
+              <p>Resolución de incidencias.</p>
+            </li>
+            <li>
+              <p>Utilización de metodologías ágiles con Jira como herramienta de gestión.</p>
+            </li>
+          </ul>
+        </VerticalTimelineElement>
         
       </VerticalTimeline>
     </div>
